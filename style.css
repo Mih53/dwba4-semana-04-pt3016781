@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+#texto
+{
+  margin-left: .6em;
+  margin-top: .6em;
+}
+
+#biblioteca h2
+{
+  padding-left: .6em;
+  padding-top: 20em;
+}
+
+#biblioteca p
+{
+  margin-left: .6em;
+  padding-top: 20em;
+}
+
+#tabela 
+{
+  width: 30px;
+
+}
+
+
